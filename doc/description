@@ -1,0 +1,32 @@
+ Unit description
+Web Security -- SHODAN:
+
+SUBJECTS COVERED: 
+
+Study of vulnerabilities linked to the development of Web applications. 
+Non-exhaustive list of domains we will cover:  
+Authentification, ACL, configuration, cryptography, encoding, error management, protocols, synchronization, language traps, Web Services, injections.
+
+
+CLASS OUTLINE: 
+
+There is only one project for this unit: SHODAN.
+Throughout the duration of the project, the goal is to succeed in exploiting weaknesses and obtain privileges or information on sites set up for the project.
+It's a platform on which groups of students will compete and look to obtain the highest score, sometimes at the cost of other teams.
+Before the project, a CFP will take place in order to organize short-talk and workshop sessions that will be lead by students. 
+
+
+VALIDATION CONDITIONS: 
+
+Skill domains:
+- Web pentest environment 
+- bruteforce technique, developing simple operations 
+- Client security: XSS/CSRF/Phishing
+- Various injections: headers HTTP, SQL, URL, code, file, command
+
+General knowledge of the detection and operation of these problems will be a condition to validate this unit.  
+Skills to be acquired
+Handling Web tools: navigator, proxy, Web Services, command line tools, scripts.
+Discovering, understanding and exploiting client and server weaknesses.
+Using simple cryptographic tools: x509 certificate, SSL/TLS.
+Participating in security-centered events: short-talks/workshops.
